@@ -23,3 +23,12 @@ actionable insights using Generative AI.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+sales-insight-platform/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env.example
+├── .gitignore
+└── assets/
+    └── screenshots/
